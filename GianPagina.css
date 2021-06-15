@@ -1,0 +1,16 @@
+#Texto_cambiar_fuente{
+    font-family: 'Orelega One', cursive;
+}
+#titulo {
+    color:rgb(0, 162, 255);
+   display: flex;
+   justify-content: center;
+}
+#Caja2 {
+  background-color: #f33b3b;
+  width: 100%; 
+  height: 720px;
+}
+body {
+margin: 0;
+}
